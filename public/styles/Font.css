@@ -1,0 +1,24 @@
+@font-face {
+  font-family: 'Vazir';
+  src: url('../fonts/Vazir/Vazir.eot');
+  src: url('Vazir.eot?#iefix') format('embedded-opentype'),
+      url('../fonts/Vazir/Vazir.woff2') format('woff2'),
+      url('../fonts/Vazir/Vazir.woff') format('woff'),
+      url('../fonts/Vazir/Vazir.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+@font-face {
+  font-family: 'Mj_Annab';
+  src: url('../fonts/Annab/Mj_Annab.eot');
+  src: url('Mj_Annab.eot?#iefix') format('embedded-opentype'),
+      url('../fonts/Annab/Mj_Annab.woff2') format('woff2'),
+      url('../fonts/Annab/Mj_Annab.woff') format('woff'),
+      url('../fonts/Annab/Mj_Annab.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+
+
